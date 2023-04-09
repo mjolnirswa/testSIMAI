@@ -124,7 +124,7 @@ document.getElementById("container").appendChild(listItemElement);
 let inputItem = new Component({
   template: "<input />",
   params: {
-    type: 'text',
+    type: "text",
     id: "my-input-item",
     placeholder: "input",
     style: "width:100px; height: 60px"
